@@ -215,17 +215,15 @@ This command will move the starter code to the `app-example` directory and creat
 >
 > For a more cohesive troubleshooting steps, please see the [_React Native_ troubleshooting documentation](https://reactnative.dev/docs/troubleshooting) and the [_Expo_ troubleshooting documentation](https://docs.expo.dev/troubleshooting/overview/).
 
-Common issues and solutions:
+Common issues and how to solve them:
 
-* <span style="color: red">`SDK location not found`</span>: Ensure `ANDROID_HOME` is set correctly
-
-* <span style="color: red">Gradle build failure</span>: Make sure you have the latest SDK tools and build tools installed
-
-* <span style="color: red">Emulator not starting</span>: Verify that virtualization is enabled in your BIOS settings
+* `SDK location not found`: Ensure `ANDROID_HOME` is set correctly
+* Gradle build failure: Make sure you have the latest SDK tools and build tools installed
+* Emulator not starting: Verify that virtualization is enabled in your BIOS settings
 
 For more specific issues, consult the official React Native documentation or seek help on Stack Overflow.
 
-Please make sure to follow the trouble shooting steps above before submitting an issue. Nobody likes to troubleshoot issues that have already been solved, it's a waste of time for everyone.
+Please make sure to follow the trouble shooting steps above before submitting an issue. It wastes everyone's time to troubleshoot issues that have already been solved.
 
 ## 7: Resources
 
