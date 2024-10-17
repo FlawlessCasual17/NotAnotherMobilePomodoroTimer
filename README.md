@@ -52,10 +52,10 @@
 3. Run the installer and follow the installation wizard
 4. Verify the installation by opening a terminal (or a command prompt) and running:
 
-```sh
-node --version
-npm --version
-```
+    ```sh
+    node --version
+    npm --version
+    ```
 
 ### 2.2: Installing Android Studio
 
